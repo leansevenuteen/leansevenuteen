@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning **Information Security - Standard Program - UIT**
 - 👨‍💻 All of my projects are available at [https://github.com/leansevenuteen](https://github.com/leansevenuteen)
 - 📫 How to reach me **nguyencaocuongh@gmail.com**
+- 📄 Know about my experiences [resume link](https://drive.google.com/drive/folders/1GlDun-tnuBD6WUL33vBqiJT1KXRWh7Pl?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
