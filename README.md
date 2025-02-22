@@ -22,6 +22,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leansevenuteen&repo=steganography&theme=onedark" width="400"/>
   </a>
   <a href="https://github.com/leansevenuteen/onehouse-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leansevenuteen&repo=onehouse-website&theme=gruvbox" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leansevenuteen&repo=onehouse-website&theme=gruvbox&v=1" width="400"/>
   </a>
 </div>
