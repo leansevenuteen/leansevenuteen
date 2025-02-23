@@ -22,9 +22,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leansevenuteen&repo=steganography&theme=onedark&v=1" width="400"/>
   </a>
   <a href="https://github.com/leansevenuteen/cp-abe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leansevenuteen&repo=cp-abe&theme=gruvbox&v=1" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leansevenuteen&repo=cp-abe&theme=gruvbox&v=2" width="400"/>
   </a>
   <a href="https://github.com/leansevenuteen/onehouse-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leansevenuteen&repo=onehouse-website&theme=merko&v=1" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leansevenuteen&repo=onehouse-website&theme=merko&v=2" width="400"/>
   </a>
 </div>
