@@ -8,9 +8,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leansevenuteen&hide=stars,contribs&show_icons=true&theme=merko&border_color=71a9e&rank_icon=github&line_height=24&v=1)
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://github.com/leansevenuteen/SOC-CTI-ChatBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leansevenuteen&repo=SOC-CTI-ChatBot&theme=algolia&v=1" width="400"/>
-  </a>
   <a href="https://github.com/leansevenuteen/steganography">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leansevenuteen&repo=steganography&theme=onedark&v=1" width="400"/>
   </a>
